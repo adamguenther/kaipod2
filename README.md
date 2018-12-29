@@ -124,3 +124,5 @@ In Volumio install the GPIO button plugin through the web interface, enable and 
 
 #### Final Thoughts
 Overall I am moderately happy with how this turned out. My son uses it most to listen to music when he goes to sleep so addressing the backlight is the biggest concern. I will continue to work to address the issues I have with it as I have been asked if I would make similar music players for some friends and family. If anyone has suggestions for any of the issues described please let me know.
+
+### Fritzing schematic
