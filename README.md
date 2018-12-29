@@ -1,5 +1,6 @@
 # kaipod2
 Networked music player for kids
+![Final Product](https://github.com/adamguenther/kaipod2/blob/master/kaipod2.jpg)
 ## kaipod 2.0
 This is a project I did to build a networked portable radio for my 4 year old son. I had previously built a simple radio using an arduino UNO and a MP3 shield, housed in a wooden enclosrue I also made. The aim was to make an easy to use music player that was solidly built. I was not happy with the offerings of MP3 radios for kids which were either too complicated, ugly, or cheaply made. Also many of them included a microphone permanently attached, however not all kids want to sing along. I have not documented that build and it has been a couple of years but I may go back and document it as the radio is still in heavy use. The issue is that my 4 year old's 2 year old brother has taken over the radio. Its simple and sturdy design makes it easy for my 2 year old to operate and abuse. 
 So now it was time to upgrade my oldest son. I still wanted the small lunchbox sized wooden design but had a list of things I wanted to address.
@@ -126,3 +127,4 @@ In Volumio install the GPIO button plugin through the web interface, enable and 
 Overall I am moderately happy with how this turned out. My son uses it most to listen to music when he goes to sleep so addressing the backlight is the biggest concern. I will continue to work to address the issues I have with it as I have been asked if I would make similar music players for some friends and family. If anyone has suggestions for any of the issues described please let me know.
 
 ### Fritzing schematic
+![Fritzing wiring](https://github.com/adamguenther/kaipod2/blob/master/Kaipod2_bb.png)
